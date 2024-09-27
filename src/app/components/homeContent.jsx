@@ -8,7 +8,7 @@ export default function HomeContent() {
                 <h1 className="main-title animated-item">{text.homeContent.title}</h1>
                 <a target="_blank" rel="noopener noreferrer"
                    className="main-image-container">
-                    <img className="home-main-image animated-item" src="/assets/aboutBanner.jpg" alt="mainImage"/>
+                    <img className="home-main-image animated-item" src="/assets/mainImage.jpg" alt="mainImage"/>
                 </a>
                 <div className="main-text">
                     <nav className="navHome">
