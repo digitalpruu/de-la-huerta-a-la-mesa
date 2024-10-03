@@ -28,7 +28,7 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/anasilveriacuellar",
+        facebook: "https://www.facebook.com/profile.php?id=61566409781356&mibextid=ZbWKwL",
         instagram: "https://www.instagram.com/anasilveria",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
